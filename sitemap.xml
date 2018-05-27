@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/git/common.html</loc>
+    
+    <lastmod>2018-05-24T14:40:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/git/best-practices.html</loc>
+    
+    <lastmod>2018-05-24T13:43:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://levy9527.github.io/front-end-style-guide/news/2015/11/13/first-released/</loc>
     
     <lastmod>2018-03-07T09:15:34.000Z</lastmod>
@@ -16,14 +30,7 @@
   </url>
   
   <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/index.html</loc>
-    
-    <lastmod>2018-03-07T08:44:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/common.html</loc>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/sass.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://levy9527.github.io/front-end-style-guide/docs/contributing.html</loc>
-    
-    <lastmod>2018-03-07T08:44:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/issues.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/query.html</loc>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/common.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/sass.html</loc>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/issues.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
@@ -233,7 +233,21 @@
   </url>
   
   <url>
-    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/jdc_fd_guide_css.html</loc>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/name/jdc_fd_guide_name.html</loc>
+    
+    <lastmod>2018-03-07T08:44:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://levy9527.github.io/front-end-style-guide/index.html</loc>
+    
+    <lastmod>2018-03-07T08:44:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://levy9527.github.io/front-end-style-guide/docs/css/query.html</loc>
     
     <lastmod>2018-03-07T08:44:57.000Z</lastmod>
     
